@@ -63,7 +63,7 @@ C = \sum_{n=0}^{\infty} \frac{(-1)^{n}}{(2n+1)^2} = \frac{1}{1^2} - \frac{1}{3^2
 ## Usage
 
 ```javascript
-import FLOAT32_CATALAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-catalan@esm/index.mjs';
+import FLOAT32_CATALAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-catalan@v0.1.1-esm/index.mjs';
 ```
 
 #### FLOAT32_CATALAN
@@ -93,7 +93,7 @@ var bool = ( FLOAT32_CATALAN === 0.9159656167030334 );
 <body>
 <script type="module">
 
-import FLOAT32_CATALAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-catalan@esm/index.mjs';
+import FLOAT32_CATALAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-catalan@v0.1.1-esm/index.mjs';
 
 console.log( FLOAT32_CATALAN );
 // => 0.9159656167030334
